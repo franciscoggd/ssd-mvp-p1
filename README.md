@@ -1,7 +1,5 @@
 # ssd-mvp-p1
-Vou criar um README.md profissional para seu repositório baseado no código fornecido:
 
-```markdown
 # 🚗 Vehicle Detection in Urban Intersections using Deep Learning
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
